@@ -1,0 +1,8 @@
+There are several kinds of Naïve Bayes classifiers implemented in scikit-
+learn (as of v0.23.2):
+
+‣ GaussianNB: for continuous variables
+‣ MultinomialNB: for count data, such as text
+‣ ComplementNB: an adaptation of multinomial NB for imbalanced data sets
+‣ BernoulliNB: for binary data
+‣ CategoricalNB: for discrete data

@@ -11,7 +11,7 @@ print(A)
 print("-" * 20)
 
 
-B = np.array([[0.0,1],[2,-3.5],[-1.2,0]])
+B = np.array([[0.0,1],[2,-35],[-12,0]])
 
 print("B ndim: ", B.ndim)
 print("B shape: ", B.shape)
